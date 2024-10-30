@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="subtitle">Películas populares</string>
+    <string name="error">Error, intente nuevamente</string>
+    <string name="navigate">Volver al inicio</string>
+    <string name="retry">Reintentar</string>
+    <string name="no_movies_found">No se encontraron películas.</string>
+    <string name="no_movie_found">No se encontraron detalles de esta película.</string>
+    <string name="fetch_error">Ocurrió un error al intentar obtener las películas.</string>
+    <string name="network_error">Error de conexión. Verifica tu red.</string>
+</resources>
